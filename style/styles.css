@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+
+.description__title {
+    font-size: 40px;
+    font-weight: 900;
+}
+.description__img {
+    width: 500px;
+    height: auto;
+}
+
+.section__title {
+    font-size: 24px;
+}
+.section__text {
+    font-size: 16px;
+}
+.section__list li {
+    font-size: 14px;
+    margin-bottom: 5px;
+}

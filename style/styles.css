@@ -3,9 +3,28 @@ body {
 }
 
 .container {
-    width: 1200px;
+    max-width: 1200px;
     margin: 0 auto;
     padding: 0 15px;
+}
+
+.header {
+}
+.menu-wrapper {
+    text-align: center;
+}
+.header-title {
+}
+.menu {
+   
+}
+.menu__list {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    column-gap: 20px;
+}
+.menu__list-item {
 }
 
 
